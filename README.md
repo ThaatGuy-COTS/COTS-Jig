@@ -2,7 +2,7 @@
 Commerical Off The Shelf String Jig\
 The poor mans 4 post string Jig
 
-<img src="IMG/COTS Jig CAD.png" alt="Rendered picture of posts and stretcher" width="40%">
+<img src="IMG/COTS Jig CAD.png" alt="Rendered picture of posts and stretcher" width="55%">
 
 
 # Highlights
