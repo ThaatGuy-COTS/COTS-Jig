@@ -21,6 +21,7 @@ The poor mans 4 post string Jig
 
 ### BOM
 
+[Click Here to open the BOM](BOM.md)
 
 
 # Jigs in use 
