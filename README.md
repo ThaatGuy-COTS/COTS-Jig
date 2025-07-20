@@ -2,7 +2,7 @@
 Commerical Off The Shelf String Jig\
 The poor mans 4 post string Jig
 
-![Image of COTS-Jig](http://vorondesign.com/images/voron0.2_bg.jpg)
+<img src="IMG/COTS Jig CAD.png" alt="Rendered picture of posts and stretcher" width="40%">
 
 
 # Highlights
@@ -23,3 +23,5 @@ The poor mans 4 post string Jig
 
 
 
+# Jigs in use 
+<img src="IMG/Built String Jig.jpg" alt="Rendered picture of posts and stretcher" width="20%">
