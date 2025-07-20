@@ -1,5 +1,5 @@
 # COTS-Jig
-Commerical Off The Shelf String Jig
+Commerical Off The Shelf String Jig\
 The poor mans 4 post string Jig
 
 ![Image of COTS-Jig](http://vorondesign.com/images/voron0.2_bg.jpg)
