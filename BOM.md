@@ -37,3 +37,4 @@
 |       | Motion               | 1/2 inch rod couplers                                        | 4 PCS  |             | |
 |       | Motion               | 1/4 inch externally threaded insert (1/2 inch ext)           | 2 PCS  |             | |
 |       | Motion               | 1/4 x 3 inch Partially Threaded Cap Screw                    | 2 PCS  | Min 1 inch Unthreaded | |
+|       | Motion               | 15 inch Recurve Bowstring                                    | 1 PCS  | Can make this after building | |
