@@ -26,3 +26,9 @@ The poor mans 4 post string Jig
 
 # Jigs in use 
 <img src="IMG/Built String Jig.jpg" alt="Rendered picture of posts and stretcher" width="20%">
+
+### Shout Outs
+
+ - Inspired by Sean's Outdoor Archery Adventures string making jig video [Youtube](https://www.youtube.com/watch?v=zctHIYPvA9c)
+ - 4 post tensioning copied from Butch at Baker Archery video [Youtube](https://youtu.be/baDyjaApRco?si=_zxuPGnNNr8pa3R3&t=73)
+ - OCD Strings Blog, tons of information on stringmaking and a great place to buy custom strings [Blog Link](https://www.ocdstrings.com/blog-category/recent)
