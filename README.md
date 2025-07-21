@@ -12,7 +12,7 @@ The poor mans 4 post string Jig
  - Assembly using basic handtools
  - No custom parts required
 
-# Assembly Instructions 
+# Assembly
 
 ### Tools
  - Handdrill
