@@ -10,7 +10,7 @@ The poor mans 4 post string Jig
  - Stretch strings at 300lbs (130KG)
  - Serve endloops at 35lbs of tension (15KG)
  - Assembly using basic handtools
- - No custom parts required
+ - No machine shop or expensive tooling required
 
 # Assembly
 
